@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T18:28:51.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="btTeywoz16dB_be34fYF" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T18:36:54.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Zx0iZ204AvJklxQ2EkEZ" version="21.3.8" type="github">
   <diagram name="第 1 页" id="Bznfu1arrX02BXHllQrz">
     <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,55 +62,55 @@
           <mxGeometry x="320" y="360" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-65" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" width="630" height="410" as="geometry" />
+          <mxGeometry x="870" y="40" width="630" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-66" value="主系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="870" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-67" value="" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="180" height="300" as="geometry" />
+          <mxGeometry x="890" y="100" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-68" value="" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="660" y="60" width="180" height="120" as="geometry" />
+          <mxGeometry x="1090" y="100" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-69" value="用户控制系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="890" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-70" value="文档浏览系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="660" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="1090" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-71" value="权限系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="490" y="100" width="130" height="50" as="geometry" />
+          <mxGeometry x="920" y="140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-72" value="登陆系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="130" height="50" as="geometry" />
+          <mxGeometry x="920" y="210" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-75" value="文档导出系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="685" y="100" width="130" height="50" as="geometry" />
+          <mxGeometry x="1115" y="140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-77" value="" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="860" y="60" width="180" height="300" as="geometry" />
+          <mxGeometry x="1290" y="100" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-76" value="用户审核系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="885" y="170" width="130" height="50" as="geometry" />
+          <mxGeometry x="1315" y="210" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-78" value="审核系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="860" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="1290" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-79" value="文档审核系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="885" y="100" width="130" height="50" as="geometry" />
+          <mxGeometry x="1315" y="140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-80" value="" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="180" height="160" as="geometry" />
+          <mxGeometry x="1090" y="250" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-81" value="文档编辑系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="1090" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-74" value="文档标注系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="685" y="240" width="130" height="50" as="geometry" />
+          <mxGeometry x="1115" y="290" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pei-o6tDRzHbzzABG9yQ-82" value="文档要素编辑系统" style="html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="685" y="300" width="130" height="50" as="geometry" />
+          <mxGeometry x="1115" y="360" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
