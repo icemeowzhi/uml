@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T22:14:21.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="042MtKnylVp0zgfStfF9" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T22:19:22.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="03tUIskTvyiW4ALQndqS" version="21.3.8" type="github">
   <diagram name="第 1 页" id="4dS_bQBiTciqHyNDqvr7">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,20 +10,20 @@
         <mxCell id="FxPtNsrZoRv8OrHz89QA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="100" width="1169" height="727" as="geometry" />
         </mxCell>
-        <mxCell id="FxPtNsrZoRv8OrHz89QA-16" value="名称：" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="250" height="30" as="geometry" />
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-16" value="核苷酸数目：" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="35" y="190" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-17" value="所属标签" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="210" height="30" as="geometry" />
+          <mxGeometry x="35" y="290" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-18" value="miRNA序列：" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="210" height="30" as="geometry" />
+          <mxGeometry x="35" y="240" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-19" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;档案浏览&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#F2F2F2;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-20" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="1100" height="200" as="geometry" />
+          <mxGeometry x="35" y="340" width="1100" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-20">
           <mxGeometry width="1100" height="50" relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-27" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="550" width="180" height="30" as="geometry" />
+          <mxGeometry x="35" y="610" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-28" value="Left" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;sketch=0;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-27">
           <mxGeometry width="60" height="30" relative="1" as="geometry" />
@@ -65,10 +65,65 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-31" value="结构预览" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="30" y="500" width="250" height="30" as="geometry" />
+          <mxGeometry x="35" y="560" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxPtNsrZoRv8OrHz89QA-32" value="未实现" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="30" y="600" width="670" height="200" as="geometry" />
+          <mxGeometry x="35" y="660" width="670" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-33" value="所属标签" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="35" y="290" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="35" y="340" width="1100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-35" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-34">
+          <mxGeometry width="1100" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-36" value="簇类" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.tabTop;strokeColor=#DFDFDF;fillColor=#ffffff;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#4B5259;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-34">
+          <mxGeometry width="110" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-37" value="家族类" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;fontColor=#4B5259;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-34">
+          <mxGeometry width="82.5" height="40" relative="1" as="geometry">
+            <mxPoint x="140" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;暂无标签&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;缺失标签信息，你可以添加标签信息。" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=center;spacing=20;spacingTop=-10;fontSize=14;fontColor=#212529" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-34">
+          <mxGeometry width="1100" height="120" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-39" value="添加信息" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;align=center;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-34">
+          <mxGeometry x="0.5" y="1" width="165" height="40" relative="1" as="geometry">
+            <mxPoint x="-82" y="-66" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-40" value="名称：" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="35" y="140" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-41" value="Notifications" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-42" value="4" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#ffffff;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;" vertex="1" parent="FxPtNsrZoRv8OrHz89QA-41">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-30" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-43" value="晚上好，guest" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="919" y="35" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-44" value="提出勘误" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-45" value="编辑" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-46" value="收藏" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="860" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FxPtNsrZoRv8OrHz89QA-47" value="碱基统计：" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
